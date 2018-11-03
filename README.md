@@ -1,2 +1,6 @@
-# Snishy
-Snishy is an email client add-on that integrates into users webmail, desktop and mobile clients to verify the authenticity of email sources by tagging their corresponding emails with Snishy’s checkmark badge. 
+# Snishy ![alt text][logo]
+
+## Please head over to the Chrome Web Store and download Snishy ![alt text][logo] for free!
+
+
+[logo]: https://github.com/snishy/snishy.github.io/blob/master/assets/ico/favicon.png "Safe Email"
